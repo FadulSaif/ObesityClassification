@@ -1,0 +1,1 @@
+Developed and compared machine learning models, including Decision Trees, Random Forests, and Neural Networks, to identify the most accurate approach for predicting obesity levels, achieving up to 96% accuracy. Key features such as weight, height, and age played a crucial role in classification, providing valuable insights for data-driven public health planning.
