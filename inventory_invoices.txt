@@ -1,0 +1,4 @@
+ID|Name|Category|Quantity|Price|Date
+1|Apple|Juice|4000|90|2024/12/26
+2|Mango|Juice|500|45|2024/12/26
+3|Orange|Juice|1000|80|2024/12/27

@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1737447486 source:c:\users\hassa\onedrive\desktop\juicemanagementsystem\code\admin.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cstdlib>
+	<limits>
+	"admin.h"
+	"inventory.h"
+
+1737447486 c:\users\hassa\onedrive\desktop\juicemanagementsystem\code\admin.h
+	<vector>
+	<string>
+	"inventory.h"
+
+1737446956 c:\users\hassa\onedrive\desktop\juicemanagementsystem\code\inventory.h
+	<string>
+
+1737479126 source:c:\users\hassa\onedrive\desktop\juicemanagementsystem\code\cashier.cpp
+	"cashier.h"
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<cstring>
+
+1735899252 c:\users\hassa\onedrive\desktop\juicemanagementsystem\code\cashier.h
+	<string>
+	<iostream>
+
+1737449475 source:c:\users\hassa\onedrive\desktop\juicemanagementsystem\code\inventory.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<ctime>
+	"inventory.h"
+
+1737449609 source:c:\users\hassa\onedrive\desktop\juicemanagementsystem\code\main.cpp
+	<iostream>
+	"inventory.h"
+	"Cashier.h"
+	"admin.h"
+
+1737447486 source:c:\users\fadsaif\downloads\2d_group1\code\admin.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cstdlib>
+	<limits>
+	"admin.h"
+	"inventory.h"
+
+1737447486 c:\users\fadsaif\downloads\2d_group1\code\admin.h
+	<vector>
+	<string>
+	"inventory.h"
+
+1737446956 c:\users\fadsaif\downloads\2d_group1\code\inventory.h
+	<string>
+
+1737479126 source:c:\users\fadsaif\downloads\2d_group1\code\cashier.cpp
+	"cashier.h"
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<cstring>
+
+1735899252 c:\users\fadsaif\downloads\2d_group1\code\cashier.h
+	<string>
+	<iostream>
+
+1737449475 source:c:\users\fadsaif\downloads\2d_group1\code\inventory.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<ctime>
+	"inventory.h"
+
+1737449609 source:c:\users\fadsaif\downloads\2d_group1\code\main.cpp
+	<iostream>
+	"inventory.h"
+	"Cashier.h"
+	"admin.h"
+

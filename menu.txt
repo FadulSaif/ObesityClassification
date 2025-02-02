@@ -1,0 +1,11 @@
+ID|Name|Category|Type|Price
+1|Apple|Juice|Fruit|1.50
+2|Mango|Juice|Fruit|2.00
+3|Banana|Juice|Fruit|1.00
+4|WaterMelon|Juice|Fruit|3.00
+5|Orange|Juice|Fruit|1.80
+6|Arabica|Coffee|Bean|5.00
+7|Robusta|Coffee|Bean|4.50
+8|Liberica|Coffee|Bean|4.80
+9|Milk|Additional|Dairy|1.20
+10|Water|Additional|Liquid|0.50
